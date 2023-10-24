@@ -1,0 +1,39 @@
+/* header */
+header {
+    width: 1440px;
+    margin: 0 auto;
+    background: #2A9D8F;
+    padding: 38px 130px;
+}
+
+.header_logo {
+    width: 46px;
+    height: 46px;
+    vertical-align: middle;
+    /* background-color: crimson; */
+   
+}
+
+.header_nav{
+    display: inline-block;
+    margin-left: 700px;
+    vertical-align: middle;
+}
+
+.header_li{
+    display: inline-block;
+}
+
+.header_text{
+    color:#FFF; 
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    font-style: normal;
+    /* background-color: chartreuse; */
+}
+
+.middle{
+    margin-inline: 51px;
+    padding: 0 46px;
+}
