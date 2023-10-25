@@ -74,11 +74,11 @@ article {
 
 .section1 {
     width: 1440px;
-    margin:  auto;
+    margin: auto;
     padding: 80px 130px;
     background-color: #C2F3EE;
     /* align-items: ; */
-   
+
 
 }
 
@@ -127,11 +127,47 @@ article {
 .button {
     color: white;
     background-color: #2A9D8F;
-    border-color:  #2A9D8F;
+    border-color: #2A9D8F;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     padding: 11px 16px;
-    
+
 }
 
+/* section2 */
+.section2 {
+    width: 1180px;
+    margin: 200px auto;
+}
+
+.section2_title {
+    color: #4D4D4D;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 130%;
+    letter-spacing: 0.24px;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 54px;
+}
+
+.figure1 {
+    width: 580px;
+    display: inline-block;
+}
+
+.fig1 {
+    margin-right: 16px;
+}
+
+.caption1 {
+    width: 580px;
+    color: #535353;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.12px;
+     font-style: normal;
+     padding-top: 32px;
+}
